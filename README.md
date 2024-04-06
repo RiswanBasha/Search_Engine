@@ -22,6 +22,7 @@ This Python application searches for recent news articles on a user-defined topi
 3. **Install Dependencies**
    ```
    pip install -r requirements.txt
+   python -m spacy download en_core_web_sm
    ```
 4. **Environment Variables**
    set the NEWSAPI_KEY in your environmental variables which you can find here [newsapi](https://newsapi.org/docs).
