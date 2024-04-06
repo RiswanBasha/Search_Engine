@@ -2,7 +2,7 @@
 ## Overview
 This Python application searches for recent news articles on a user-defined topic and outputs the top-15 relevant articles. It provides summaries and named entities from the article headlines and saves all search results to a CSV file.
 
-## Installation
+## How to Run the Code
 
 1. **Clone the Repository**
    ```bash
@@ -36,9 +36,11 @@ This Python application searches for recent news articles on a user-defined topi
    View Results
    - Check the console for the top-15 articles' summaries and named entities.
    - Find a detailed list of all fetched articles in news_articles.csv.
-6. **Outputs**
-   Enter a topic to search for (or type 'exit' to quit):  IPL
-   Which language do you prefer? English or German:  en
+     
+## Result
+   Enter a topic to search for (or type 'exit' to quit):  **IPL**
+   Which language do you prefer? English or German:  **en**
+   
    Title: Sonam Delivers High Octane Style And Dance Moves In A Bejewelled Jumpsuit 
    URL: https://www.ndtv.com/lifestyle/sonam-bajwa-delivers-high-octane-style-and-dance-moves-in-a-bejewelled-fringe-jumpsuit-5379739 
    Date: 2024-04-05T08:14:11Z
