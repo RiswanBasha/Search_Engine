@@ -42,6 +42,8 @@ This Python application searches for recent news articles on a user-defined topi
    View Results
    - Check the console for the top-15 articles' summaries and named entities.
    - Find a detailed list of all fetched articles in news_articles.csv.
+   - Positive Unit Testcase - passed
+   - Negative Testcase - passed
      
 ## Result
    Enter a topic to search for (or type 'exit' to quit):  **IPL**
