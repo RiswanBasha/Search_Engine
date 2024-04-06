@@ -30,6 +30,12 @@ This Python application searches for recent news articles on a user-defined topi
    2. Register your account
    3. Get API Key for free
 5. **Run the Application**
+
+   ```
+   python Article_Search.py
+   or
+   Jupyter Notebook
+   ```
    Follow the Prompts
    - Enter a search topic.
    - Choose your preferred language (English or German).
