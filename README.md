@@ -6,7 +6,7 @@ This Python application searches for recent news articles on a user-defined topi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://your-repository-link.git
+   https://github.com/RiswanBasha/Search_Engine.git
    cd ArticleSearchEngine
    ```
 2. **Set Up a Virtual Environment**
