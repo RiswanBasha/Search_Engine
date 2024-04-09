@@ -76,7 +76,7 @@ This Python application searches for recent news articles on a user-defined topi
    
    ---------------------------------------------------------------------------
    Title: GT vs PBKS IPL 2024: From “accidental purchase” to ‘hero’, Shashank Singh turns match winner for Preity Zinta and Punjab 
-   URL: https://economictimes.indiatimes.com/news/sports/gt-vs-pbks-ipl-2024-from-accidental-purchase-to-hero-shashank-singh-turns-match-winner-for-preity-zinta-and-punjab/articleshow/109054334.cms 
+   URL: https://economictimes.indiatimes.com/news/sports/gt-vs-pbks-ipl-2024-from-accidental-purchase-to-hero-shashank-singh-turns-match-winner-for-preity-zinta-and-   punjab/articleshow/109054334.cms 
    Date: 2024-04-05T05:29:44Z
    
    ---------------------------------------------------------------------------
@@ -127,22 +127,83 @@ This Python application searches for recent news articles on a user-defined topi
    ---------------------------------------------------------------------------
    
    Summary of headlines:
-   
-   - Sonam Delivers High Octane Style And Dance Moves In A Bejewelled Jumpsuit
-   - SRH vs CSK Pitch Report: Key players, head-to-head statistics, weather update, and other details
-   - Virat Kohli under lot of pressure this IPL, other RCB batters need to support him: Steve Smith
-   - Broad backs struggling Buttler to discover form in IPL
-   - SC directs collective hearing for online gaming GST cases
-   - GT vs PBKS IPL 2024: From “accidental purchase” to ‘hero’, Shashank Singh turns match winner for Preity Zinta and Punjab
-   - Travis Head Auditions For Cricket World Cup Spot At Indian Premier League
-   - RBI MPC Announcement: RBI keeps benchmark repo rate unchanged at 6.5%, says Governor Shaktikanta Das
-   - PBKS stages sensational comeback to defeat GT in TATA IPL 2024 thriller
-   - Markram's half-century helps Sunrisers past Super Kings - IPL scorecard
-   - Angkrish Raghuvanshi Thanks ‘Guru’ Abhishek Nayar After Stunning Fifty Against Delhi Capitals
-   - Mayank Yadav Can Be Fast-Tracked Into International Cricket, India Have Got Something Special: Stuart Broad
-   - Mustafizur Rahman-Less CSK Face Unpredictable Sunrisers Hyderabad
-   - IPL Records Highest Ever TV Viewership In First 10 Matches, Says Official Broadcaster
-   - Rishabh Pant Fined Rs 24 Lakh For Second Over Rate Offence
+
+Title: IPL 2024: #39;Bade Miyan Chote Miyan#39; actors Akshay Kumar and Tiger Shroff predict these teams will make into playoffs
+
+Description: The 17th season of the IPL is proving to be as unpredictable and thrilling as ever. With the league still wide open, Bollywood actors Akshay Kumar and Tiger Shroff#39;s predictions add an interesting twist to the ongoing speculations.
+
+---------------------------------------------------------------------------
+Title: Watch - 'Individual performances don't matter': Rohit Sharma after Mumbai Indians win against Delhi Capitals
+
+Description: Mumbai Indians secured victory against Delhi Capitals at Wankhede Stadium in IPL 2024. Rohit Sharma excelled with 49 runs, praised as senior statesman for focusing on team goals over individual performances. Rohit hit 3 sixes and 6 fours in his knock and sure…
+
+---------------------------------------------------------------------------
+Title: CSK vs KKR IPL 2024 Match today: Pitch report, playing XI & weather prediction, head-to-head record
+
+Description: CSK vs KKR Pitch Report, IPL 2024: Ruturaj Gaikwad's Chennai Super Kings face Shreyas Iyer's Kolkata Knight Riders in IPL Match 22. CSK seeks redemption after two consecutive losses, while unbeaten KKR aims to extend their winning streak. Key players to watch…
+
+---------------------------------------------------------------------------
+Title: Cognizant eyes Indian sports leagues after debut sponsorship in US Major League Cricket
+
+Description: The IT company which has golf, car racing in its sports sponsorship portfolio has made its debut in cricket. It spends less than 20 percent of its marketing spends on sports sponsorship.
+
+---------------------------------------------------------------------------
+Title: Drake offers to pay for fan's divorce proceedings mid-concert
+
+Description: During his recent It's All a Blur Tour stop, rapper Drake showed his generosity by offering to cover a fan's legal fees for a divorce. Videos from the concert surfaced online, capturing Drake's promise to help the fan transition into single life. This isn't t…
+
+---------------------------------------------------------------------------
+Title: Kolkata to make a debut at Tomorrowland, Belgium
+
+Description: Kolkata based 25-year-old musician Kaushik Das also known as DJ Roop is all set to become the only Indian this year and first musician from West Benga.
+
+---------------------------------------------------------------------------
+Title: Huma Qureshi drops childhood pictures with her "cartoon" brother Saqib Saleem
+
+Description: Today marks actor Saqib Saleem's birthday, and his sister Huma Qureshi made the occasion extra special with an endearing Instagram post. Sharing their childhood memories, Huma expressed her love for her brother, referring to him as her "cartoon." The siblings…
+
+---------------------------------------------------------------------------
+Title: Jelly Roll, Lainey Wilson and other record-breaking artists shine at the 2024 CMT Music Awards
+
+Description: Jelly Roll shines once again at the 2024 CMT Music Awards, securing three top honors for his hit track "Need a Favor." Hosted by Kelsea Ballerini, the event in Austin, Texas, witnessed Jelly Roll's consecutive triumph, as his song dominated categories like Vi…
+
+---------------------------------------------------------------------------
+Title: I'm excited for my Tamil debut with Vijay Antony's Valli Mayil: Faria Abdullah
+
+Description: Faria Abdullah, in an interview with Hyderabad Times, recalls her journey to become an actor, opens up about her physical transformation and upcoming projects.
+
+---------------------------------------------------------------------------
+Title: IPL 2024: Lizaad Williams joins Delhi Capitals as replacement for Harry Brook
+
+Description: Lizaad Williams joins Delhi Capitals in IPL 2024, replacing Harry Brook who withdrew post grandmother's demise. Williams, a South African bowler, comes in for Rs 50 lakh. Brook, signed for Rs 4 crore, withdrew after his record 55-ball hundred in the UAE.
+
+---------------------------------------------------------------------------
+Title: ‘Rs 3-4 lakh per session’: Dinesh Karthik gives insider’s peek into Mumbai Indians, regrets leaving IPL team
+
+Description: Dinesh Karthik mentioned that as a player you have a greater chance of improving your game if you are at Mumbai Indians.
+
+---------------------------------------------------------------------------
+Title: Alliant Energy Co. (NASDAQ:LNT) Receives $54.06 Consensus Target Price from Analysts
+
+Description: Shares of Alliant Energy Co. (NASDAQ:LNT – Get Free Report) have received a consensus rating of “Hold” from the seven analysts that are presently covering the company, Marketbeat.com reports. Four analysts have rated the stock with a hold recommendation and t…
+
+---------------------------------------------------------------------------
+Title: IPL 2024: LSG's triple triumph on the trot as Yash Thakur, Marcus Stoinis shine
+
+Description: Lucknow Super Giants defended 163 runs at Ekana stadium against Gujarat Titans. Yash Thakur's five-wicket haul earned him man of the match. The team's solid bowling attack led to their victory. LSG pacer Yash Thakur, who stole the show by claiming five wicket…
+
+---------------------------------------------------------------------------
+Title: IPL 2024: Romario Shepherd credits Kieron Pollard for last-over heroics against Delhi Capitals
+
+Description: Romario Shepherd, IPL player since 2022, shifted to Mumbai Indians from Lucknow Super Giants. He impressed against Delhi Capitals with 32 runs. Previously bought by Sunrisers Hyderabad, Shepherd now joins West Indian instant hits at MI like Lendl Simmons, Dwa…
+
+---------------------------------------------------------------------------
+Title: IPL 2024: Romario Shepherd's last-over onslaught against Delhi Capitals helps Mumbai Indians seal first win
+
+Description: At Wankhede Stadium, Mumbai Indians secured their first win by defeating Delhi Capitals. Romario Shepherd's pivotal 32 runs off Anrich Nortje's final over led MI to post 234-5, a challenging target that DC fell short of, scoring 205 for eight. MI's total was …
+
+---------------------------------------------------------------------------
+
    
    Named Entities (sorted by frequency):
    
