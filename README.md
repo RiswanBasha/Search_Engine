@@ -40,7 +40,7 @@ This Python application searches for recent news articles on a user-defined topi
    - Enter a search topic.
    - Choose your preferred language (English or German).
    View Results
-   - Check the console for the top-15 articles' summaries and named entities.
+   - Check the console for the top-15 article's summaries, description and named entities.
    - Find a detailed list of all fetched articles in news_articles.csv.
    - Positive Unit Testcase - passed
    - Negative Testcase - passed
