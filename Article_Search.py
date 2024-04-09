@@ -9,7 +9,7 @@ print('Test')
 
 # # Import Modules
 
-# In[47]:
+# In[27]:
 
 
 # Import Modules
@@ -25,7 +25,7 @@ from unittest.mock import patch, Mock
 
 # # Search Engine
 
-# In[48]:
+# In[28]:
 
 
 def fetch_news(topic, language):
@@ -65,10 +65,10 @@ def fetch_news(topic, language):
     articles = response.json()['articles']
     
     # Return a list of tuples containing the title, URL, and publication date for each article.
-    return [(article['title'], article['url'], article['publishedAt']) for article in articles]
+    return [(article['title'], article['url'], article['publishedAt'],article['description']) for article in articles]
 
 
-# In[49]:
+# In[29]:
 
 
 def process_headlines(headlines):
@@ -107,7 +107,7 @@ def process_headlines(headlines):
     return summaries, sorted_entities  # Return the summaries and sorted entities
 
 
-# In[50]:
+# In[40]:
 
 
 def save_to_csv(articles, filename='news_articles.csv'):
@@ -126,7 +126,7 @@ def save_to_csv(articles, filename='news_articles.csv'):
     """
 
     # Create a DataFrame from the articles list with specified column names.
-    df = pd.DataFrame(articles, columns=['Title', 'URL', 'PublishedAt'])
+    df = pd.DataFrame(articles, columns=['Title', 'URL', 'PublishedAt','description'])
     # Save the DataFrame to a CSV file, without including the index.
     df.to_csv(filename, index=False)
 
@@ -150,14 +150,17 @@ def display_results(articles, summaries, entities):
         print(f"Title: {article[0]} \nURL: {article[1]} \nDate: {article[2]}\n")
         print('---------------------------------------------------------------------------')
 
-    # Print summaries of the first 15 headlines/articles.
+    # Print summaries and description of the first 15 headlines/articles.
     print("\nSummary of headlines:\n")
-    for summary in summaries[:15]:
-        print(f'- {summary}')
+    for article in articles[:15]:
+        print(f'Title: {article[0]}\n')
+        print(f"Description: {article[3]}\n")
+        print('---------------------------------------------------------------------------')
+        
     print("\nNamed Entities (sorted by frequency):\n", entities, sep='\n')
 
 
-# In[52]:
+# In[41]:
 
 
 def main():
@@ -207,7 +210,7 @@ if __name__ == "__main__":
 
 # # Unit-testing of the Search Engine
 
-# In[55]:
+# In[8]:
 
 
 class TestFetchNews(unittest.TestCase):
@@ -259,7 +262,7 @@ class TestFetchNews(unittest.TestCase):
         self.assertEqual(len(articles), 2, "Expected to find 2 articles")
 
 
-# In[56]:
+# In[9]:
 
 
 # Running the tests
@@ -269,4 +272,10 @@ def run_tests():
     runner = unittest.TextTestRunner(verbosity=2)
     runner.run(test_suite)
 run_tests()
+
+
+# In[ ]:
+
+
+
 
